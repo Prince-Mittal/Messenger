@@ -1,0 +1,3 @@
+[submodule "Messenger-Frontend"]
+	path = Messenger-Frontend
+	url = https://github.com/Prince-Mittal/Messenger-Frontend
